@@ -9,7 +9,12 @@
   "author": "Chase Simpson",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.10.2",
+    "bower": "^1.3.12",
     "express": "^4.11.1",
-    "jade": "^1.9.1"
+    "jade": "^1.9.1",
+    "mongoose": "^3.8.22",
+    "morgan": "^1.5.1",
+    "stylus": "^0.49.3"
   }
 }
